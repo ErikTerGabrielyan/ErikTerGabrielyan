@@ -9,12 +9,12 @@
   
 ### Basic information about me:
 
-- 👨‍🎓 I’m a senior pursuing a <strong>Bachelor's degree in Information Science and Data Analysis</strong>.
-- 🔭 I am <strong>21 years of age.</strong>
+- 👨‍🎓 I’m a graduate from the University of Maryland, College Park with a <strong> Bachelor's degree in Data Science</strong>.
+- 🔭 I am <strong>23 years of age.</strong>
 - 🌱 I am of <strong>Armenian descent.</strong>
 - 😀 A few of my interests outside of work include <strong>soccer, chess, poker,</strong> and a nice game of <strong>Starcraft.</strong>
 - 💼 I’m looking for career opportunities as a <strong>Data Scientist/Analyst</strong>, <strong>Frontend/Backend Developer</strong> or <strong>Software Engineer</strong>.
-- 🖥️ After completing my junior year of college, I have a combined <strong>5 years of programming experience</strong>, including <strong>Coursework</strong> and <strong>Internship Experience</strong>.
+- 🖥️ After completing my bachelors degree, I have a combined <strong>5 years of programming experience</strong>, including <strong>Coursework</strong> and <strong>Internship Experience</strong>.
 
 ### Programming languages I have experience with (in order from most to least experienced with) include:
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
