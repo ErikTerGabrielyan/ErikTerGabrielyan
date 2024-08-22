@@ -1,6 +1,5 @@
 ![eriktergabrielyan](https://github.com/ErikTerGabrielyan/solproject/blob/main/New%20Project.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=9C00FF&center=true&vCenter=true&width=1500&height=200&lines=Information+Science+and+Data+Analysis+Student;University+of+Maryland%2C+College+Park;Welcome+to+my+profile!%3AD)](https://git.io/typing-svg)
 # How To Reach Me
 <a href="mailto: eriktergabrielyan@yahoo.com">
 <img src="https://img.shields.io/badge/-eriktergabrielyan%40yahoo.com-blueviolet?&style=for-the-badge&logo=yahoo&logoColor=white%22" ></a>  <a  href="https://www.instagram.com/billpwchan/">   <a href="https://www.linkedin.com/in/erik-ter-gabrielyan-28b9a3154/"><img src="https://img.shields.io/badge/eriktergabrielyan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
